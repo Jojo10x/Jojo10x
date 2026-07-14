@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-* 🖥️  See my portfolio at [Website](http://joelkasisi.tech/)
+* 🖥️  See my portfolio at [Website](http://joelkasisi.it/)
 * ✉️  You can contact me at [joelkasisi10@gmail.com](mailto:joelkasisi10@gmail.com)
 
 ### Socials
